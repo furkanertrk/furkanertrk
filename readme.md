@@ -73,4 +73,4 @@ Bilgisayar Mühendisliği öğrencisi olarak yapay zeka, veri bilimi, siber güv
 
 ---
 
-Yeni teknolojiler öğrenmeye, deney yapmaya ve projelerimi büyütmeye devam ediyorum. Her zaman işbirliğine açığım. 😊
+Yeni teknolojiler öğrenmeye, denemeler yapmaya ve projelerimi büyütmeye devam ediyorum. Her zaman işbirliğine açığım. 😊
