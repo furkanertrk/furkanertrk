@@ -18,8 +18,11 @@ Bilgisayar Mühendisliği öğrencisi olarak yapay zeka, veri bilimi, siber güv
 ## 🛠️ Kullandığım Teknolojiler
 
 **Diller:** Python, C, C++, JavaScript, PHP, SQL
+
 **Kütüphaneler:** NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
+
 **Araçlar:** Git, Linux, Postman, Docker, VSCode
+
 **Web:** HTML, CSS, JS, PHP, MySQL
 
 ---
