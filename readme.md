@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Furkan!
+# 👋 Merhaba, ben Furkan
 
 Bilgisayar Mühendisliği öğrencisi olarak yapay zeka, veri bilimi, siber güvenlik ve sistem programlama alanlarında projeler geliştiriyorum. Yeni teknolojileri hızlıca öğrenmeyi, derinlemesine kurcalamayı ve fikirleri çalışır ürünlere dönüştürmeyi seviyorum.
 
@@ -35,7 +35,6 @@ Bilgisayar Mühendisliği öğrencisi olarak yapay zeka, veri bilimi, siber güv
 * **Cybersecurity Journey:** Siber güvenlik odaklı öğrenme notları ve araç denemeleri
 
 #### ==> Profilde sabitlediğim projelere de göz atabilirsin!
----
 ---
 
 ## 📊 GitHub İstatistikleri
