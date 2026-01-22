@@ -3,12 +3,6 @@
 <h1 align="center">👋 Merhaba, ben Furkan</h1>
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi | AI, Data & Systems Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yapay+zeka+ile+gerçek+problemleri+çözerim.;Kod+yazarak+öğrenirim%2C+öğrenerek+derinleşirim.;Sistemleri+kurcalar%2C+ölçer+ve+iyileştiririm.;Python%2C+C%2FC%2B%2B+ve+Linux+dünyası." />
-</p>
-
----
-
 ## 🧠 Kısa Özet
 
 Merakla yetinmem, **kanıt ararım**. Bir teknolojiyi yalnızca kullanmakla ilgilenmem; nasıl çalıştığını, nerede kırıldığını ve nasıl daha iyi hale getirileceğini sorgularım. Yapay zeka, veri bilimi, sistem programlama ve siber güvenlik ekseninde **ölçeklenebilir, ölçülebilir ve gerçek dünyada karşılığı olan** projeler geliştiriyorum.
@@ -39,17 +33,6 @@ Linux · Git · Docker · Postman · VS Code
 
 **Web**
 HTML · CSS · JavaScript · PHP · MySQL
-
----
-
-## ⭐ Öne Çıkan Çalışmalar
-
-* **Python Projects** → Farklı problem alanlarında pratik, üretime yakın Python projeleri
-* **Data Structures & Algorithms** → C ile düşük seviyede veri yapıları ve algoritmalar
-* **Deep Learning** → Görüntü işleme, sinir ağları ve model deneyleri
-* **Cybersecurity Journey** → Siber güvenlik öğrenme notları, denemeler ve araç analizleri
-
-📌 *Profilimde sabitlediğim projeler, yaklaşımımı en net şekilde gösterir.*
 
 ---
 
@@ -88,6 +71,3 @@ HTML · CSS · JavaScript · PHP · MySQL
 * 🔗 LinkedIn: [https://linkedin.com/in/furkan-erturk7/](https://linkedin.com/in/furkan-erturk7/)
 
 ---
-
-> *Yeni bir teknolojiye körü körüne hayran olmam. Önce test ederim, sınırlarım, sonra karar veririm.*
-> İşbirliğine açık, tartışmayı seven ve üretmeye odaklıyım.
