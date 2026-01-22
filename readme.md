@@ -1,75 +1,93 @@
-# 👋 Merhaba, ben Furkan
+<!-- Profile Header -->
 
-Bilgisayar Mühendisliği öğrencisi olarak yapay zeka, veri bilimi, siber güvenlik ve sistem programlama alanlarında projeler geliştiriyorum. Yeni teknolojileri hızlıca öğrenmeyi, derinlemesine kurcalamayı ve fikirleri çalışır ürünlere dönüştürmeyi seviyorum.
+<h1 align="center">👋 Merhaba, ben Furkan</h1>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | AI, Data & Systems Enthusiast</h3>
 
----
-
-## 🚀 İlgi Alanlarım
-
-* Yapay Zeka & Derin Öğrenme
-* Büyük Veri, Veri Analizi ve Modelleme
-* Python ile otomasyon ve araç geliştirme
-* Sistem programlama (C / C++)
-* Siber güvenlik, Linux, Red Team / Blue Team temelleri
-* Web geliştirme (Frontend + Backend)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yapay+zeka+ile+gerçek+problemleri+çözerim.;Kod+yazarak+öğrenirim%2C+öğrenerek+derinleşirim.;Sistemleri+kurcalar%2C+ölçer+ve+iyileştiririm.;Python%2C+C%2FC%2B%2B+ve+Linux+dünyası." />
+</p>
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🧠 Kısa Özet
 
-**Diller:** Python, C, C++, JavaScript, PHP, SQL
-
-**Kütüphaneler:** NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
-
-**Araçlar:** Git, Linux, Postman, Docker, VSCode
-
-**Web:** HTML, CSS, JS, PHP, MySQL
+Merakla yetinmem, **kanıt ararım**. Bir teknolojiyi yalnızca kullanmakla ilgilenmem; nasıl çalıştığını, nerede kırıldığını ve nasıl daha iyi hale getirileceğini sorgularım. Yapay zeka, veri bilimi, sistem programlama ve siber güvenlik ekseninde **ölçeklenebilir, ölçülebilir ve gerçek dünyada karşılığı olan** projeler geliştiriyorum.
 
 ---
 
-## ⭐ Öne Çıkan Projeler
+## 🚀 Odak Alanlarım
 
-* **Python Projects:** Farklı alanlarda topladığım Python proje koleksiyonu
-* **Data Structures & Algorithms:** C ile temel veri yapıları ve algoritma uygulamaları
-* **Deep Learning:** Görüntü işleme ve sinir ağları çalışmaları
-* **Cybersecurity Journey:** Siber güvenlik odaklı öğrenme notları ve araç denemeleri
+* 🤖 Yapay Zeka & Derin Öğrenme (Computer Vision, model analizi)
+* 📊 Veri Bilimi, Büyük Veri & İstatistiksel Modelleme
+* 🧩 Python ile otomasyon, CLI araçları ve mikro-çözümler
+* ⚙️ Sistem Programlama (C / C++, memory & performance farkındalığı)
+* 🛡️ Siber Güvenlik (Linux, temel Red / Blue Team bakış açısı)
+* 🌐 Web Geliştirme (Frontend + Backend, uçtan uca bakış)
 
-#### ==> Profilde sabitlediğim projelere de göz atabilirsin!
+---
+
+## 🛠️ Teknoloji Yığınım
+
+**Diller**
+Python · C · C++ · JavaScript · PHP · SQL
+
+**AI / Data**
+NumPy · Pandas · Matplotlib · TensorFlow · PyTorch
+
+**Araçlar & Ortam**
+Linux · Git · Docker · Postman · VS Code
+
+**Web**
+HTML · CSS · JavaScript · PHP · MySQL
+
+---
+
+## ⭐ Öne Çıkan Çalışmalar
+
+* **Python Projects** → Farklı problem alanlarında pratik, üretime yakın Python projeleri
+* **Data Structures & Algorithms** → C ile düşük seviyede veri yapıları ve algoritmalar
+* **Deep Learning** → Görüntü işleme, sinir ağları ve model deneyleri
+* **Cybersecurity Journey** → Siber güvenlik öğrenme notları, denemeler ve araç analizleri
+
+📌 *Profilimde sabitlediğim projeler, yaklaşımımı en net şekilde gösterir.*
+
 ---
 
 ## 📊 GitHub İstatistikleri
 
-![Furkan GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanertrk&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanertrk&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanertrk&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanertrk&layout=compact&theme=tokyonight" />
+</p>
 
-![Furkan GitHub Streak](https://streak-stats.demolab.com?user=furkanertrk&theme=tokyonight)
-
-
----
-
-## 🏷️ Rozetler
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=furkanertrk&theme=tokyonight" />
+</p>
 
 ---
 
-## ✨ Hakkımda Banner
+## 🏷️ Teknoloji Rozetleri
 
-![Typing SVG](https://readme-typing-svg.demolab.com?size=25\&duration=3500\&color=1AF7FF\&center=true\&vCenter=true\&width=600\&lines=Merhaba!+Ben+Furkan.;Bilgisayar+Mühendisliği+Öğrencisi.;Yapay+Zeka+ve+Veri+Bilimi+Meraklısı.;Python+ve+C+ile+projeler+geliştiriyorum.)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 İletişim
 
-* **GitHub:** github.com/furkanertrk
-* **LinkedIn:** linkedin.com/in/furkan-erturk7/
+* 💻 GitHub: [https://github.com/furkanertrk](https://github.com/furkanertrk)
+* 🔗 LinkedIn: [https://linkedin.com/in/furkan-erturk7/](https://linkedin.com/in/furkan-erturk7/)
 
 ---
 
-Yeni teknolojiler öğrenmeye, denemeler yapmaya ve projelerimi büyütmeye devam ediyorum. Her zaman işbirliğine açığım. 😊
+> *Yeni bir teknolojiye körü körüne hayran olmam. Önce test ederim, sınırlarım, sonra karar veririm.*
+> İşbirliğine açık, tartışmayı seven ve üretmeye odaklıyım.
