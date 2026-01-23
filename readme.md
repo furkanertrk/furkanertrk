@@ -5,7 +5,7 @@
 
 ## 🧠 Kısa Özet
 
-Merakla yetinmem, **kanıt ararım**. Bir teknolojiyi yalnızca kullanmakla ilgilenmem; nasıl çalıştığını, nerede kırıldığını ve nasıl daha iyi hale getirileceğini sorgularım. Yapay zeka, veri bilimi, sistem programlama ve siber güvenlik ekseninde **ölçeklenebilir, ölçülebilir ve gerçek dünyada karşılığı olan** projeler geliştiriyorum.
+Yapay zeka, veri bilimi, sistem programlama ve siber güvenlik ekseninde **ölçeklenebilir, ölçülebilir ve gerçek dünyada karşılığı olan** projeler geliştiriyorum.
 
 ---
 
