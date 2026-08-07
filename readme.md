@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">👋 Merhaba, ben Furkan</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | AI, Data & Systems Enthusiast</h3>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 
 ## 🧠 Kısa Özet
 
